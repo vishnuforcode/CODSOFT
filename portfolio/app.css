@@ -11,7 +11,7 @@
     --color-white:#ffffff;
     --color-light:#828282;
     --color-primary:#12e12e;
-    --color-dark:#212121;
+    --color-dark:#9b9797;
     --color-border:#7e686895;
     --color-bg:#262525;
 
@@ -117,7 +117,7 @@ ul {
 .nav-container ul{
     display: flex;
     align-items: center;
-    gap:40px;
+    gap:30px;
 }
 .nav-container ul li a{
     color: #ffffff;
